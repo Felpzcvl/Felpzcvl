@@ -70,7 +70,7 @@ Jogo de plataforma no estilo dos clássicos de 16 bits, feito **100% em HTML5 Ca
 
 </div>
 
-| | |
+| Destaque | Detalhes |
 |---|---|
 | 🕹️ **Conteúdo** | 6 fases em 3 zonas, 3 chefes e fase especial em túnel 3D |
 | ⚙️ **Física** | Rampas, loopings e colisão por altura de tile, no modelo clássico de 16 bits |
@@ -91,8 +91,10 @@ Jogo de plataforma no estilo dos clássicos de 16 bits, feito **100% em HTML5 Ca
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Felpzcvl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&locale=pt-br" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felpzcvl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2f81f7&locale=pt-br" alt="Linguagens" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felpzcvl&theme=github_dark" alt="Contribuições" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Felpzcvl&theme=github_dark" alt="Estatísticas" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Felpzcvl&theme=github_dark" alt="Linguagens mais usadas" />
 
 <img src="https://streak-stats.demolab.com?user=Felpzcvl&theme=github-dark-blue&hide_border=true&background=0d1117&locale=pt_BR" alt="Sequência de contribuições" />
 
