@@ -4,9 +4,9 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/fellipe-cavalcanti-669164321/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=2f81f7" alt="LinkedIn"/></a>
-<a href="mailto:fellipecb8@gmail.com"><img src="https://img.shields.io/badge/E--mail-161b22?style=flat-square&logo=gmail&logoColor=2f81f7" alt="E-mail"/></a>
-<a href="https://brasileleicaorush.vercel.app/"><img src="https://img.shields.io/badge/Jogue_meu_jogo-161b22?style=flat-square&logo=vercel&logoColor=2f81f7" alt="Jogo"/></a>
+<a href="https://www.linkedin.com/in/fellipe-cavalcanti-669164321/"><img src="./btn-linkedin.svg" height="44" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:fellipecb8@gmail.com"><img src="./btn-email.svg" height="44" alt="E-mail"/></a>&nbsp;
+<a href="https://brasileleicaorush.vercel.app/"><img src="./btn-jogo.svg" height="44" alt="Jogue meu jogo"/></a>
 
 </div>
 
