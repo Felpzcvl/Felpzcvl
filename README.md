@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2f81f7&height=200&section=header&text=Fellipe%20Cavalcanti&fontSize=52&fontColor=f0f6fc&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%C2%B7%20Bras%C3%ADlia%20-%20DF&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Fellipe Cavalcanti" />
+<img src="./banner.svg" width="100%" alt="Fellipe Cavalcanti — Desenvolvedor de Software em formação" />
 
-<a href="https://github.com/Felpzcvl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%C2%B7+JavaScript+%C2%B7+HTML+%C2%B7+CSS;Docker+%C2%B7+GitHub+Actions+%C2%B7+CI%2FCD;Em+busca+de+est%C3%A1gio+em+Desenvolvimento" alt="Typing SVG" />
-</a>
+<br/><br/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/fellipe-cavalcanti-669164321/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:fellipecb8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
-<a href="https://brasileleicaorush.vercel.app/"><img src="https://img.shields.io/badge/Jogue_meu_jogo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Jogo"/></a>
+<a href="https://www.linkedin.com/in/fellipe-cavalcanti-669164321/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=2f81f7" alt="LinkedIn"/></a>
+<a href="mailto:fellipecb8@gmail.com"><img src="https://img.shields.io/badge/E--mail-161b22?style=flat-square&logo=gmail&logoColor=2f81f7" alt="E-mail"/></a>
+<a href="https://brasileleicaorush.vercel.app/"><img src="https://img.shields.io/badge/Jogue_meu_jogo-161b22?style=flat-square&logo=vercel&logoColor=2f81f7" alt="Jogo"/></a>
 
 </div>
 
@@ -100,4 +96,6 @@ Jogo de plataforma no estilo dos clássicos de 16 bits, feito **100% em HTML5 Ca
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" />
+<div align="center">
+<sub><code>~/felpzcvl</code> · feito com café, código e curiosidade</sub>
+</div>
