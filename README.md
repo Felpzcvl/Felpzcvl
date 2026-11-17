@@ -37,17 +37,17 @@ public class Fellipe {
 
 <div align="center">
 
-**Back-end e Banco de Dados**
+**Linguagens e Web**
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,supabase&theme=dark" alt="Java, Spring Boot, PostgreSQL, Supabase" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" alt="Java, JavaScript, TypeScript, Python, HTML, CSS" />
 
-**Front-end**
+**Frameworks e Banco de Dados**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,tailwind,postgres,supabase&theme=dark" alt="Spring Boot, React, Next.js, Tailwind CSS, PostgreSQL, Supabase" />
 
 **DevOps e Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,vscode&theme=dark" alt="Docker, GitHub Actions, Git, GitHub, Vercel, VS Code" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,nodejs,maven,vitest,vscode&theme=dark" alt="Docker, GitHub Actions, Git, GitHub, Vercel, Node.js, Maven, Vitest, VS Code" />
 
 </div>
 
