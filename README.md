@@ -31,8 +31,8 @@ public class Fellipe {
 - 🎓 Certificados:
   - *DOCKER Completo do Zero ao Avançado* (Udemy, 2026)
   - *GitHub Actions – The Complete Guide* (Udemy, 2026)
-  - *Redes de Computadores Completo – Do Básico ao Avançado*
-  - *Arquitetura de Software & Design de Sistemas Modernos*
+  - *Redes de Computadores Completo – Do Básico ao Avançado* (Udemy, 2026)
+  - *Arquitetura de Software & Design de Sistemas Modernos* (Udemy, 2026)
 - 📫 Fale comigo: **fellipecb8@gmail.com**
 
 ---
