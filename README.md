@@ -47,7 +47,45 @@ public class Fellipe {
 
 ---
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
+
+<div align="center">
+
+<a href="https://techold.vercel.app/">
+  <img src="./techold-capa.webp" width="85%" alt="TechOld — gestão de academias" />
+</a>
+
+#### [TECHOLD — GESTÃO DE ACADEMIAS](https://techold.vercel.app/)
+
+SaaS de gestão de academias com três perfis, **administrador, professor e aluno**, feito com **Next.js 16 + Spring Boot 4.1**.
+
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot_4.1-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+
+</div>
+
+| Destaque | Detalhes |
+|---|---|
+| 🏢 **Administrador** | Painel com indicadores e gráficos, professores, alunos, solicitações, agenda e relatórios em CSV |
+| 🏋️ **Professor** | Biblioteca de 80 exercícios com a ilustração de cada músculo e vídeo; montador de fichas com séries, carga, descanso e técnicas |
+| 📱 **Aluno** | Treino do dia no celular, registro série por série com a carga da última vez e histórico, mesmo com a rede instável |
+| 🔐 **Segurança** | JWT RS256 em cookies HttpOnly por trás de um BFF; as regras de acesso de cada perfil valem na API |
+| 🧪 **Qualidade** | Mais de 3 mil testes automatizados com JUnit + Testcontainers, Vitest e Playwright |
+
+<div align="center">
+
+[![Abrir o app](https://img.shields.io/badge/▶_Abrir_o_app-E32636?style=for-the-badge)](https://techold.vercel.app/)
+[![Ver o vídeo](https://img.shields.io/badge/Ver_o_vídeo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/update/urn:li:activity:7528466011201867776/)
+
+</div>
+
+<br/>
 
 <div align="center">
 
