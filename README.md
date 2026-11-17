@@ -18,12 +18,14 @@
 public class Fellipe {
     String curso      = "Análise e Desenvolvimento de Sistemas — Faculdade Projeção";
     String local      = "Brasília - DF";
-    String[] stack    = {"Java", "JavaScript", "HTML", "CSS"};
-    String[] devops   = {"Docker", "GitHub Actions", "CI/CD", "Git"};
+    String[] backend  = {"Java", "Spring Boot", "PostgreSQL", "Supabase"};
+    String[] frontend = {"TypeScript", "React", "Next.js", "JavaScript", "HTML", "CSS"};
+    String[] devops   = {"Docker", "GitHub Actions", "CI/CD", "Git", "Vercel", "Render"};
     String objetivo   = "Estágio ou vaga júnior em Desenvolvimento de Software";
 }
 ```
 
+- 🏋️ Desenvolvo o **[TechOld](https://techold.vercel.app/)**, um SaaS de gestão de academias com **Next.js 16 + Spring Boot 4.1** e mais de 3 mil testes automatizados
 - 🎮 Criei um **jogo de plataforma completo em JavaScript puro**, sem engine e sem dependências
 - 🐳 Estudando conteinerização com **Docker** e automação de pipelines com **GitHub Actions**
 - 🎓 Certificados: *DOCKER Completo do Zero ao Avançado* e *GitHub Actions – The Complete Guide* (Udemy, 2026)
@@ -35,9 +37,13 @@ public class Fellipe {
 
 <div align="center">
 
-**Linguagens e Web**
+**Back-end e Banco de Dados**
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Java, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,supabase&theme=dark" alt="Java, Spring Boot, PostgreSQL, Supabase" />
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, HTML, CSS" />
 
 **DevOps e Ferramentas**
 
