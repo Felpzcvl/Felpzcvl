@@ -28,7 +28,11 @@ public class Fellipe {
 - 🏋️ Desenvolvo o **[TechOld](https://techold.vercel.app/)**, um SaaS de gestão de academias com **Next.js 16 + Spring Boot 4.1** e mais de 3 mil testes automatizados
 - 🎮 Criei um **jogo de plataforma completo em JavaScript puro**, sem engine e sem dependências
 - 🐳 Estudando conteinerização com **Docker** e automação de pipelines com **GitHub Actions**
-- 🎓 Certificados: *DOCKER Completo do Zero ao Avançado* e *GitHub Actions – The Complete Guide* (Udemy, 2026)
+- 🎓 Certificados:
+  - *DOCKER Completo do Zero ao Avançado* (Udemy, 2026)
+  - *GitHub Actions – The Complete Guide* (Udemy, 2026)
+  - *Redes de Computadores Completo – Do Básico ao Avançado*
+  - *Arquitetura de Software & Design de Sistemas Modernos*
 - 📫 Fale comigo: **fellipecb8@gmail.com**
 
 ---
